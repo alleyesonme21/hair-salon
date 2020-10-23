@@ -39,13 +39,18 @@ _To set up and install, follow the instructions to clone the repository._
 _To set up the database, follow the instructions below._ 
 - To set up: 
 _Create an appsettings.json file and add the code in the image below; don’t forget to change your password_
+```
+  {
 
- ## {
  "ConnectionStrings": {
    
     "DefaultConnection": "Server=localhost;Port=3306;database=hair_salon;uid=root;pwd=password;"
-## }
-## }
+
+  }
+
+ }
+ ```
+ 
 * Open your terminal and type “dotnet restore” 
 * Then, type “dotnet run”
 
