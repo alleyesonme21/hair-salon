@@ -5,7 +5,7 @@ Created: 10/9/2020
 
 # Description
 
-This website uses C#, ASP.NET, and MCV (plus, HTML, CSS, and Javascript) to manage the hair stylists and clients for Eau Claire's Salon in a database. The application allows the website user (e.g., salon manager) to see a list of hair stylists, view the clients of each hair stylist, and add new clients to the rdatabase. 
+This website uses C#, ASP.NET, and MCV (plus, HTML, CSS, and Javascript) to manage the hair stylists and clients for Eau Claire's Salon in a database. The application allows the website user (e.g., salon manager) to see a list of hair stylists, view the clients of each hair stylist, and add new clients to the database. 
 
 The website is a student project created for Epicodus, a 6-month C#/React programming bootcamp. 
 
